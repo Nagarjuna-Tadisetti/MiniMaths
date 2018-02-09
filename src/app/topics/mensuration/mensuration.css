@@ -1,0 +1,14 @@
+.topic-menu {
+    height: 70px;
+    
+}
+
+.card {
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+}
+.topic_body {
+    background-color: #F5F5F5;
+    padding: 10px;
+}
